@@ -7,13 +7,13 @@ An interactive Power BI dashboard developed as a team project during the **Digit
 3. **Visualization:** Created 3 main pages: Overview, Drivers, and Product Deep Dive.
 ## 🖼️ Dashboard Showcase
 ### 1. Overview Page
-<img width="1234" height="701" alt="image" src="https://github.com/user-attachments/assets/d1df4b2d-7a2c-4534-9c45-91a0007aa422" />
+<img width="1234" height="701" alt="Screenshot 2026-04-25 175441" src="https://github.com/user-attachments/assets/7d140d1a-82e1-43e9-a0fe-ff53f3ca70d6" />
 
 ### 2. Drivers Analysis
-<img width="1265" height="691" alt="image" src="https://github.com/user-attachments/assets/e4f0d462-6d89-48fb-988c-a098e3a97ac4" />
+<img width="1265" height="691" alt="Screenshot 2026-04-25 175532" src="https://github.com/user-attachments/assets/bdaea50c-32b3-4015-ac2b-3647085159ec" />
 
 ### 3. Data Model
-<img width="990" height="700" alt="image" src="https://github.com/user-attachments/assets/935f0482-6316-417f-9c62-3345ef6feb78" />
+<img width="990" height="700" alt="Screenshot 2026-04-25 175600" src="https://github.com/user-attachments/assets/6f0fc7da-5af6-48d8-89ac-563adc184414" />
 
 ## 👥 Team Members
 * Youssef Kamal
